@@ -19,12 +19,7 @@ El proyecto sigue la estructura estándar de un proyecto de Android Studio.
 *   `settings.gradle`: Define los módulos que se incluirán en la compilación.
 *   `app/src/main/AndroidManifest.xml`: El manifiesto de la aplicación.
 
-## Cómo Compilar y Ejecutar
 
-1.  Clona este repositorio.
-2.  Abre el proyecto en Android Studio.
-3.  Sincroniza el proyecto con los archivos de Gradle.
-4.  Ejecuta la aplicación en un emulador de Android o en un dispositivo físico.
 
 ## Diseño de la Interfaz de Usuario
 
